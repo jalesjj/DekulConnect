@@ -59,25 +59,6 @@ lib
         <img src="https://avatars.githubusercontent.com/jalesjj" width="100px;" alt=""/>
         <br /><sub><b>Jales Junda Istiqfariz</b></sub>
       </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/vorgive">
-        <img src="https://avatars.githubusercontent.com/vorgive" width="100px;" alt=""/>
-        <br /><sub><b>Moch. Rizaldhi Pratama</b></sub>
-      </a>
-    </td>
-  </tr>
-</table>
-
-### 👥 Collaborators
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/jalesjj">
-        <img src="https://avatars.githubusercontent.com/jalesjj" width="100px;" alt=""/>
-        <br /><sub><b>Jales Junda Istiqfariz</b></sub>
-      </a>
       <br />
       <a href="mailto:jalesjunda22@gmail.com">📧 Email</a> |
       <a href="https://instagram.com/j_stqfrz" target="_blank">📸 IG</a>
