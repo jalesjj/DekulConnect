@@ -1,16 +1,47 @@
-# dekul_connect
+# 📘 Buku Penghubung Digital (DekulConnect)
 
-A new Flutter project.
+Aplikasi Flutter untuk memudahkan komunikasi antara guru dan orang tua murid secara digital. Proyek ini menggantikan buku penghubung konvensional dengan sistem terintegrasi berbasis mobile.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Fitur Utama
 
-A few resources to get you started if this is your first Flutter project:
+- 👩‍🏫 **Login Guru & Orang Tua**
+- 📊 **Dashboard Guru & orang Tua**
+- 🏫 **Catatan Aktivitas di Sekolah & di rumah**
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📁 Struktur Direktori
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```plaintext
+lib
+├── guru
+│   ├── aktivitas_di_sekolah.dart
+│   ├── dashboard_guru.dart
+│   └── profil_guru.dart
+├── login_screens
+│   ├── login_screen.dart
+│   ├── parent_login_screen.dart
+│   └── teacher_login_screen.dart
+├── parent_halaman
+│   ├── homeparent.dart
+│   └── main.dart
+```
+### 👥 Collaborators
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/jalesjj">
+        <img src="https://avatars.githubusercontent.com/jalesjj" width="100px;" alt=""/>
+        <br /><sub><b>Jales Junda Istiqfariz</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/username1">
+        <img src="https://avatars.githubusercontent.com/username1" width="100px;" alt=""/>
+        <br /><sub><b>Nama Teman 1</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
