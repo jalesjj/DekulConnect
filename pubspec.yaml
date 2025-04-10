@@ -1,0 +1,45 @@
+name: dekul_connect
+description: Your app description
+
+# The following line prevents the package from being accidentally published to
+# pub.dev using `flutter pub publish`. This is preferred for private packages.
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.19.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+
+  fonts:
+    - family: Biryani
+      fonts:
+        - asset: assets/fonts/Biryani-ExtraBold.ttf
+          weight: 800
+        - asset: assets/fonts/Biryani-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/Biryani-Regular.ttf
+          weight: 400
+
+    - family: Inter
+      fonts:
+        - asset: assets/fonts/Inter-Regular.ttf
+        - asset: assets/fonts/Inter-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/Inter-SemiBold.ttf
+          weight: 600
+
+  assets:
+    - assets/images/
