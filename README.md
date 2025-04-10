@@ -27,6 +27,29 @@ lib
 │   ├── homeparent.dart
 │   └── main.dart
 ```
+
+## 📅 Project Progress halaman Guru
+
+- [x] Halaman Opsi Login Guru dan Ortu
+- [x] Halaman Login
+- [x] Dashboard Guru
+- [ ] profile
+- [ ] aktifitas
+- [ ] ...
+- [ ] ...
+- [ ] ...
+
+## 📅 Project Progress halaman Orang Tua
+
+- [x] Halaman Opsi Login Guru dan Ortu
+- [x] Halaman Login
+- [x] Dashboard Guru
+- [ ] profile
+- [ ] aktifitas
+- [ ] ...
+- [ ] ...
+- [ ] ...
+
 ### 👥 Collaborators
 
 <table>
