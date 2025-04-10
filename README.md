@@ -60,7 +60,7 @@ lib
         <br /><sub><b>Jales Junda Istiqfariz</b></sub>
       </a>
       <br />
-      <a href="mailto:jalesjunda22@gmail.com">📧 Email</a> |
+      <a href="https://mail.google.com/mail/?view=cm&fs=1&to=jalesjunda22@gmail.com" target="_blank">📧 Email</a> |
       <a href="https://instagram.com/j_stqfrz" target="_blank">📸 IG</a>
     </td>
     <td align="center">
@@ -69,7 +69,7 @@ lib
         <br /><sub><b>Moch. Rizaldhi Pratama</b></sub>
       </a>
       <br />
-      <a href="mailto:xxx@gmail.com">📧 Email</a> |
+      <a href="https://mail.google.com/mail/?view=cm&fs=1&to=xxx@gmail.com" target="_blank">📧 Email</a> |
       <a href="https://instagram.com/xxxx" target="_blank">📸 IG</a>
     </td>
   </tr>
