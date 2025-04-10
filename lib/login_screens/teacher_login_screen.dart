@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'login_screen.dart';
+import '../guru/dashboard_guru.dart';  
 
 class TeacherLoginScreen extends StatefulWidget {
   const TeacherLoginScreen({Key? key}) : super(key: key);
@@ -12,11 +13,31 @@ class _TeacherLoginScreenState extends State<TeacherLoginScreen> {
   final TextEditingController _usernameController = TextEditingController();
   final TextEditingController _passwordController = TextEditingController();
 
+  String useremail = "guru";
+  String pass = "123";
+  String notif = "";
+
   @override
   void dispose() {
     _usernameController.dispose();
     _passwordController.dispose();
     super.dispose();
+  }
+
+  void login(String username, String password) {
+    if (username == useremail && password == pass) {
+      setState(() {
+        notif = "";
+      });
+      Navigator.push(
+        context,
+        MaterialPageRoute(builder: (context) => const DashboardGuru()),
+      );
+    } else {
+      setState(() {
+        notif = "Username atau password salah";
+      });
+    }
   }
 
   @override
@@ -69,7 +90,7 @@ class _TeacherLoginScreenState extends State<TeacherLoginScreen> {
                         const SizedBox(height: 30),
                         GestureDetector(
                           onTap: () {
-                            // TODO: Tambahkan logika login di sini
+                            login(_usernameController.text, _passwordController.text);
                           },
                           child: Container(
                             padding: const EdgeInsets.symmetric(vertical: 14),
@@ -92,6 +113,14 @@ class _TeacherLoginScreenState extends State<TeacherLoginScreen> {
                           ),
                         ),
                         const SizedBox(height: 10),
+                        Text(
+                          notif,
+                          style: const TextStyle(
+                            color: Colors.red,
+                            fontWeight: FontWeight.bold,
+                          ),
+                        ),
+                        const SizedBox(height: 10),
                         GestureDetector(
                           onTap: () {
                             Navigator.pushReplacement(
@@ -107,7 +136,7 @@ class _TeacherLoginScreenState extends State<TeacherLoginScreen> {
                               fontFamily: 'Inter',
                               fontSize: 14,
                               fontWeight: FontWeight.w400,
-                              decoration: TextDecoration.underline, // biar keliatan bisa diklik
+                              decoration: TextDecoration.underline,
                             ),
                           ),
                         ),
