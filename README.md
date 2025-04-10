@@ -38,9 +38,9 @@ lib
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/username1">
-        <img src="https://avatars.githubusercontent.com/username1" width="100px;" alt=""/>
-        <br /><sub><b>Nama Teman 1</b></sub>
+      <a href="https://github.com/vorgive">
+        <img src="https://avatars.githubusercontent.com/vorgive" width="100px;" alt=""/>
+        <br /><sub><b>Moch. Rizaldhi Pratama</b></sub>
       </a>
     </td>
   </tr>
