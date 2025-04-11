@@ -69,8 +69,8 @@ lib
         <br /><sub><b>Moch. Rizaldhi Pratama</b></sub>
       </a>
       <br />
-      <a href="https://mail.google.com/mail/?view=cm&fs=1&to=xxx@gmail.com" target="_blank">📧 Email</a> |
-      <a href="https://instagram.com/xxxx" target="_blank">📸 IG</a>
+      <a href="https://mail.google.com/mail/?view=cm&fs=1&to=rizaldhiyt@gmail.com" target="_blank">📧 Email</a> |
+      <a href="https://instagram.com/rizaldhialdhi24" target="_blank">📸 IG</a>
     </td>
   </tr>
 </table>
