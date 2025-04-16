@@ -24,8 +24,10 @@ lib
 │   ├── parent_login_screen.dart
 │   └── teacher_login_screen.dart
 ├── parent_halaman
+|   ├── aktivitas_di_rumah.dart
 │   ├── homeparent.dart
-│   └── main.dart
+|   └── profile_parent.dart
+├── main.dart
 ```
 
 ## 📅 Project Progress halaman Guru
@@ -33,8 +35,8 @@ lib
 - [x] Halaman Opsi Login Guru dan Ortu
 - [x] Halaman Login
 - [x] Dashboard Guru
-- [ ] profile
-- [ ] aktifitas
+- [x] profile
+- [x] aktifitas
 - [ ] ...
 - [ ] ...
 - [ ] ...
@@ -44,8 +46,8 @@ lib
 - [x] Halaman Opsi Login Guru dan Ortu
 - [x] Halaman Login
 - [x] Dashboard Guru
-- [ ] profile
-- [ ] aktifitas
+- [x] profile
+- [x] aktifitas
 - [ ] ...
 - [ ] ...
 - [ ] ...
