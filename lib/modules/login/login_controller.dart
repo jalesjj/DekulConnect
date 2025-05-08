@@ -23,8 +23,8 @@ class LoginController extends BaseViewModel {
   }
 
   void onRoleChanged(RoleEnums? role) {
-    usernameTextController.text = "081435596514";
-    passwordTextController.text = "password";
+    usernameTextController.text = "081...";
+    passwordTextController.text = "";
     selectedRole.value = role;
     update();
   }
