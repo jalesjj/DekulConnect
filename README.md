@@ -40,7 +40,7 @@ Aplikasi Flutter untuk memudahkan komunikasi antara guru dan orang tua murid sec
       <a href="https://instagram.com/j_stqfrz" target="_blank">📸 IG</a>
     </td>
     <td align="center">
-      <a href="https://github.com/vorgive">
+      <a href="https://github.com/RizaldhiP20">
         <img src="https://avatars.githubusercontent.com/vorgive" width="100px;" alt=""/>
         <br /><sub><b>Moch. Rizaldhi Pratama</b></sub>
       </a>
