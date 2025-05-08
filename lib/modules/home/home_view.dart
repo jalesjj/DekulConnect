@@ -157,7 +157,6 @@ class HomeView extends BaseView<HomeController> {
             child: Row(
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
-                CircleAvatar(radius: 36, backgroundColor: AppColors.blue),
                 SizedBox(width: 12),
                 Column(
                   crossAxisAlignment: CrossAxisAlignment.start,
