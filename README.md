@@ -4,32 +4,6 @@ Aplikasi Flutter untuk memudahkan komunikasi antara guru dan orang tua murid sec
 
 ---
 
-## 🚀 Fitur Utama
-
-- 👩‍🏫 **Login Guru & Orang Tua**
-- 📊 **Dashboard Guru & orang Tua**
-- 🏫 **Catatan Aktivitas di Sekolah & di rumah**
----
-
-## 📁 Struktur Direktori
-
-```plaintext
-lib
-├── guru
-│   ├── aktivitas_di_sekolah.dart
-│   ├── dashboard_guru.dart
-│   └── profil_guru.dart
-├── login_screens
-│   ├── login_screen.dart
-│   ├── parent_login_screen.dart
-│   └── teacher_login_screen.dart
-├── parent_halaman
-|   ├── aktivitas_di_rumah.dart
-│   ├── homeparent.dart
-|   └── profile_parent.dart
-├── main.dart
-```
-
 ## 📅 Project Progress halaman Guru
 
 - [x] Halaman Opsi Login Guru dan Ortu
@@ -48,7 +22,7 @@ lib
 - [x] Dashboard Guru
 - [x] profile
 - [x] aktifitas
-- [ ] input nilai
+- [ ] ...
 - [ ] ...
 - [ ] ...
 
