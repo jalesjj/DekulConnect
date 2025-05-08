@@ -1,6 +1,10 @@
-# 📘 Buku Penghubung Digital (DekulConnect)
-
-Aplikasi Flutter untuk memudahkan komunikasi antara guru dan orang tua murid secara digital. Proyek ini menggantikan buku penghubung konvensional dengan sistem terintegrasi berbasis mobile.
+<div align="center"> 
+  <h1>📘 Buku Penghubung Digital (DekulConnect)</h1> 
+  <h3>Proyek ini menggantikan buku penghubung konvensional dengan sistem terintegrasi berbasis mobile.</h3>
+  
+  ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+</div>
 
 ---
 
