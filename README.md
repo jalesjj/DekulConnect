@@ -8,27 +8,31 @@
 
 ---
 
-## 📅 Project Progress halaman Guru
+## Fitur Guru
 
 - [x] Halaman Opsi Login Guru dan Ortu
 - [x] Halaman Login
 - [x] Dashboard Guru
 - [x] profile
-- [x] aktifitas
-- [ ] ...
-- [ ] ...
-- [ ] ...
+- [x] input aktifitas di sekolah
+- [x] lihat aktifitas di rumah
+- [x] input nilai siswa
+- [x] logout
 
-## 📅 Project Progress halaman Orang Tua
+## Fitur Orang Tua
 
 - [x] Halaman Opsi Login Guru dan Ortu
 - [x] Halaman Login
-- [x] Dashboard Guru
+- [x] Dashboard Ortu
 - [x] profile
-- [x] aktifitas
-- [ ] ...
-- [ ] ...
-- [ ] ...
+- [x] input aktivitas di rumah
+- [x] lihat aktivitas di sekolah
+- [x] lihat nilai
+- [x] logout
+
+## Fitur Admin
+
+xxx
 
 ### 👥 Collaborators
 
