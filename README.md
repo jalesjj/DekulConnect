@@ -45,7 +45,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/RizaldhiP20">
-        <img src="https://avatars.githubusercontent.com/vorgive" width="100px;" alt=""/>
+        <img src="https://avatars.githubusercontent.com/RizaldhiP20" width="100px;" alt=""/>
         <br /><sub><b>Moch. Rizaldhi Pratama</b></sub>
       </a>
       <br />
