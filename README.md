@@ -3,9 +3,10 @@
   <h3>Aplikasi mobile berbasis Flutter untuk menghubungkan guru dan orang tua dalam memantau aktivitas serta nilai siswa di sekolah dan rumah.<br>Proyek ini menggantikan buku penghubung konvensional dengan sistem terintegrasi berbasis mobile.</h3>
   
   ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)<br>
-  ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
-  ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white)
+  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+  <br>
+  ![RESTful API](https://img.shields.io/badge/RESTful_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+  ![JSON Web Tokens](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 </div>
 
 
@@ -60,7 +61,7 @@ Dekul Connect adalah aplikasi monitoring siswa yang memungkinkan:
 
 ### Fitur Admin
 
-xxx
+[Repo admin ada di sini, klik dan baca fitur di readme](https://github.com/jalesjj/DekulConnect_BE)
 
 
 ## 🔧 Konfigurasi Environment
