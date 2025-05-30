@@ -59,7 +59,7 @@ Dekul Connect adalah aplikasi monitoring siswa yang memungkinkan:
 2. **Social**: Greetings, good association, obedience, politeness etc
 3. **Responsibility**: Punctuality, uniform, focus, completing tasks etc
 
-### Fitur Admin
+### Fitur Admin (BackEnd)
 
 [Repo admin ada di sini, klik dan baca fitur di readme](https://github.com/jalesjj/DekulConnect_BE)
 
